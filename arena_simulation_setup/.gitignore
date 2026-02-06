@@ -1,1 +1,7 @@
 ﻿isaac_models
+assets/
+
+worlds/city_isaac
+worlds/restaurant_isaac
+worlds/grscenes_navigation
+worlds/tower_isaac
